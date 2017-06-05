@@ -1,0 +1,24 @@
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe.config
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\MetroFramework.Design.dll
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\MetroFramework.dll
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\MetroFramework.Fonts.dll
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Form1.resources
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Resources.resources
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbproj.GenerateResource.Cache
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.exe
+c:\users\malvin\documents\visual studio 2015\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbprojResolveAssemblyReference.cache
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe.config
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbprojResolveAssemblyReference.cache
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Form1.resources
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Resources.resources
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbproj.GenerateResource.Cache
+C:\Users\Malvin\Documents\Visual Studio 2017\Projects\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.exe
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe.config
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.exe
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\bin\x86\Debug\Advanced Auto Clicker By Malvin.exe
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbprojResolveAssemblyReference.cache
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Form1.resources
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced_Auto_Clicker_By_Malvin.Resources.resources
+E:\Utilities\Advanced Auto Clicker By Malvin\Advanced Auto Clicker By Malvin\obj\x86\Debug\Advanced Auto Clicker By Malvin.vbproj.GenerateResource.Cache
